@@ -1,0 +1,1 @@
+manchallinfile1.txt content
